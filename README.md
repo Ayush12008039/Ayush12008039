@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/tenor.gif"
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush12008039&label=Profile%20views&color=0e75b6&style=flat" alt="ayush12008039" /> </p>
 
